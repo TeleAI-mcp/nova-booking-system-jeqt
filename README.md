@@ -1,2 +1,3 @@
-# nova-booking-system-jeqt
-Automated issue comment bot repository
+# Nova Booking System Jeqt
+
+Automated issue comment bot repository.
